@@ -1,4 +1,4 @@
-print("Hello world");
-print("SUCH WOW");
-print("SUCH MANY");
-print("welocme");
+print("Hello world;");
+print("SUCH WOW;");
+print("SUCH MANY;");
+print("welocme;");
