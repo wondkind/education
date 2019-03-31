@@ -1,2 +1,2 @@
 print("PRIVET");
-print("BYE BYE");
+print("BYE BYE MAN");
