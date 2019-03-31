@@ -1,2 +1,4 @@
 print("Hello world");
 print("SUCH WOW");
+print("SUCH MANY");
+print("welocme");
